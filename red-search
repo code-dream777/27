@@ -85,7 +85,7 @@
         <input type="text" class="search-box" id="searchInput" placeholder="NO!">
         <div class="buttons">
             <button type="submit">search</button>
-            <button type="button" onclick="imFeelingLucky()">you are not safe</button>
+            <button type="button" onclick="imFeelingLucky()">you Are not safe</button>
         </div>
     </form>
     
